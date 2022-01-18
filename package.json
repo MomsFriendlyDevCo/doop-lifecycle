@@ -1,10 +1,10 @@
 {
-  "name": "@doop/service-life-cycle-events",
+  "name": "@doop/service-lifecycle",
   "version": "1.0.0",
   "description": "A lifeCycleEvents service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-life-cycle-events.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-lifecycle.git"
   },
   "keywords": [
     "doop"
@@ -12,7 +12,7 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-life-cycle-events/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-service-lifecycle/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-life-cycle-events#readme"
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-lifecycle#readme"
 }
